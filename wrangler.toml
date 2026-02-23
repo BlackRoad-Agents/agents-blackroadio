@@ -1,0 +1,10 @@
+name = "agents-blackroadio"
+main = "src/index.js"
+compatibility_date = "2024-12-01"
+account_id = "848cf0b18d51e0170e0d1537aec3505a"
+
+[vars]
+SUBDOMAIN = "agents"
+ORG = "BlackRoad-OS"
+ENVIRONMENT = "production"
+SITE_URL = "https://agents.blackroad.io"
